@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"langName": "en-AR",
-		"langAuthor": "Sophie (github/sophfee), Fancy!Bee",
+		"langAuthor": "Sophie (github/sophfee), Fancy!Bee", MetalMustBleed
 		"langVersion": "1.0.1",
 		"langDisplayName": "Arabic",
 		"langRTL": "true",
@@ -1771,7 +1771,7 @@
 		"shop_colorsCustomUnlockPrompt": "UNLOCK CUSTOM COLORS FOR:"
 	},
 	"enemyNames":{
-		"enemyname_filth": "FILTH",
+		"enemyname_filth": "نتانة",
 		"enemyname_stray": "ضال",
 		"enemyname_schism": "شقاق",
 		"enemyname_soldier": "SOLDIER",
@@ -1915,10 +1915,10 @@
 		"enemyBios_data": "حقائق",
 		"enemyBios_strategy": "تقنيات فعالة",
 
-		"enemyBios_filth_1": "Husks are physical manifestations of the souls of the damned. ",
-		"enemyBios_filth_2": "The physical form is based on the value of the original soul, which is determined by the strength of its will and its prevalence in public consciousness: the living souls that remember it. ",
-		"enemyBios_filth_3": "Filth are the lowest form of Husk, whose souls were too weak and unimportant to even form a complete physical body.",
-		"enemyBios_filth_4": "Even among Husks, they have the lowest intelligence, driven purely by hunger.",
+		"enemyBios_filth_1": ".القشور هي مظاهر جسدية لأرواح الملعونين ",
+		"enemyBios_filth_2": ".ويرتكز الشكل المادي على قيمة النفس الأصلية ,التي تحدد بقوة إرادتها وانتشارها في الوعي العام :وهي الأنفس الحية التي تتذكرها",
+		"enemyBios_filth_3": ".النتانة هي أدنى أشكال القشور، والتي كانت أرواحهم ضعيفة وغير مهمة لدرجة عدم تشكل جسم مادي كامل",
+		"enemyBios_filth_4": ".حتى بين القشور، لديهم أدنى مستوى من الذكاء، مدفوعين بالجوع فقط",
 		
 		"enemyBios_filth_strategy1": "Most weapons are easily capable of taking down Filth, but their powerful jaws and sheer numbers can overwhelm a target quickly if underestimated.",
 		"enemyBios_filth_strategy2": "Explosives are the most effective way to take down swarms, but any weapon that can hit more than one target will be efficient.",
